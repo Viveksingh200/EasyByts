@@ -1,0 +1,15 @@
+.nav-items{
+    margin-right: 2rem;
+}
+
+ ul li{
+    padding-left: 2rem;
+    text-decoration: none;
+    color: white;
+}
+  
+.nav-link.yellow {
+    color: yellow !important; 
+    font-weight: bold;
+}
+  
